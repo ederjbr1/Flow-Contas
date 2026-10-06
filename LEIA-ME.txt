@@ -1,0 +1,14 @@
+FLOW — MINHAS CONTAS (PWA)
+
+Esta pasta é uma versão instalável como aplicativo.
+
+IMPORTANTE:
+- Para o navegador oferecer "Instalar aplicativo" / "Adicionar à tela inicial" de forma confiável, os arquivos precisam estar publicados em um endereço HTTPS.
+- O arquivo local index.html pode continuar sendo usado, mas não tem todos os recursos de PWA.
+- As contas cadastradas ficam no armazenamento local do navegador. Senhas não são armazenadas.
+
+Depois de publicar:
+1. Abra o endereço no Chrome do Android.
+2. Menu ⋮ > Instalar aplicativo (ou Adicionar à tela inicial).
+3. Instale "Flow Contas".
+4. O ícone aparecerá na tela inicial.
